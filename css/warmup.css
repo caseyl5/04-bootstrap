@@ -46,3 +46,8 @@ a:hover {
 .selected, .referenced {
     color: white;
 }
+
+svg {
+    fill: aquamarine;
+    color: darkslateblue;
+}
